@@ -60,3 +60,19 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#idea
+.idea
+*.iml
+
+#minecraft forge
+eclipse
+gradle
+CREDITS-fml.txt
+forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt
+gradlew.bat
+gradlew
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+README.txt
+LICENSE-fml.txt

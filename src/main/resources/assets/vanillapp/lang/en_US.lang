@@ -1,0 +1,13 @@
+item.vanillapp_creative_sword.name=Creative Sword
+
+item.vanillapp_emerald_sword.name=Emerald Sword
+item.vanillapp_emerald_pickaxe.name=Emerald Pickaxe
+item.vanillapp_emerald_axe.name=Emerald Axe
+item.vanillapp_emerald_hoe.name=Emerald Hoe
+item.vanillapp_emerald_spade.name=Emerald Shovel
+item.vanillapp_emerald_helmet.name=Emerald Helmet
+item.vanillapp_emerald_chestplate.name=Emerald Chestplate
+item.vanillapp_emerald_leggings.name=Emerald Leggings
+item.vanillapp_emerald_boots.name=Emerald Boots
+
+entity.vanillapp_wither_skeleton.name=Wither Skeleton
